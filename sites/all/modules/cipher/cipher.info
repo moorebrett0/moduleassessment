@@ -1,0 +1,5 @@
+name = Shift Cipher
+description = Caesar's Shift Cipher
+package = Brett's Creations
+core = 7.x
+files[] = cipher.module
