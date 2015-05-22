@@ -1,4 +1,30 @@
 
+Shift Cipher
+Drupal module development assessment for Epicodus
+
+05.22.2015
+
+Brett
+
+Description
+
+This site is the base site for the shift cipher custom module.
+
+Usernames and Passwords
+
+database>>
+
+brett_cipher.sql.gz
+username: epicodus
+password: epicodus
+site administration>>
+
+username: epicodus
+password: epicodus
+
+
+
+
 CONTENTS OF THIS FILE
 ---------------------
 
