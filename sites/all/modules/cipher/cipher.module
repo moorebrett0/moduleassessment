@@ -74,13 +74,14 @@
               }
               else {
                   for ($i=0; $i < $shift; $i++) {
-                      $new_char = --$key;
+                      $new_char = chr(ord($key) - 1);
                   }
               }
               $encrypted = array_push($new, $new_char);
               $encrypted = implode($new);
           }
           return $encrypted;
+
 
         }
     function cipher_results() {
